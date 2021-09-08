@@ -39,7 +39,7 @@ body {
 .headPhoto {
     width: 8rem;
     height: 8rem;
-    background: ./img/fish.png no-repeat;
+    background: url(https://s3.bmp.ovh/imgs/2021/09/c33ff93c9a6e5b46.jpg) no-repeat;
     background-size: cover;
     border-radius: 50%;
     position: relative;
